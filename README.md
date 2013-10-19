@@ -7,7 +7,7 @@ I added a sample for a `user` model.
 
 to install:
 
-0. make sure you have node.js and coffeescript install
+0. make sure you have node.js and coffeescript installed
 1. add your mongodb URI under `config/environment.coffee`
 2. run `npm install`
 3. run `npm start`
