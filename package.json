@@ -1,0 +1,16 @@
+{
+  "name": "ride",
+  "description": "ride app",
+  "version": "0.0.1",  
+  "dependencies": {
+    "express": "*",
+    "mongoose": "latest",
+    "underscore": "latest"
+  },   
+  "scripts": {
+    "start": "supervisor app.coffee"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
