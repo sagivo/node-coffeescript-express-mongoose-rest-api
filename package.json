@@ -1,14 +1,14 @@
 {
-  "name": "ride",
-  "description": "ride app",
+  "name": "skeleton",
+  "description": "skeleton app for REST API",
   "version": "0.0.1",  
   "dependencies": {
     "express": "*",
-    "mongoose": "latest",
-    "underscore": "latest"
+    "mongoose": "*",
+    "underscore": "*"
   },   
   "scripts": {
-    "start": "supervisor app.coffee"
+    "start": "coffee app.coffee"
   },
   "engines": {
     "node": "*"
