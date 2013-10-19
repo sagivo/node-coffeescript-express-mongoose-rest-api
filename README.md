@@ -1,4 +1,4 @@
-nodejs-express-mongoose-rest
+node-coffeescript-express-mongoose-rest-api
 ============================
 
 a quick MVC skeleton for creating a RESTful server using express.js and mongoose.
