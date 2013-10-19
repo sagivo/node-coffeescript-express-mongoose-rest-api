@@ -4,8 +4,7 @@
   "version": "0.0.1",  
   "dependencies": {
     "express": "*",
-    "mongoose": "*",
-    "underscore": "*"
+    "mongoose": "*"
   },   
   "scripts": {
     "start": "coffee app.coffee"
