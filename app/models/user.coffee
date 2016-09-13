@@ -7,7 +7,7 @@ UserSchema = new Schema
   email: type: String, required: true, index: true, unique: true
   phone: type: String
   created: type: Date, default: Date.now
-  bio: type: Stringg
+  bio: type: String
 
 UserSchema.set 'autoIndex', false #don't index every time the server restart
 
